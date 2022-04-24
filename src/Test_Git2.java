@@ -5,6 +5,8 @@ public class Test_Git2 {
 		// TODO Auto-generated method stub
 		System.out.println("Testing Git project");
 		System.out.println("Code Modification done here!");
+		
+		System.out.println("File 2 Modified");
 	}
 
 }

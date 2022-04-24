@@ -8,6 +8,7 @@ public class Test_Git {
 		
 		
 		System.out.println("File 1 modified");
+		System.out.println("File 1 modified again");
 
 	}
 
